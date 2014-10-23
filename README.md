@@ -7,7 +7,7 @@ Website - www.dotedlabs.com<br/>
 
 This widget is a customized Standby widget with a loader image. This also
 helps the user to display text content dynamically when they want to show the
-loader for any particular event.<br/><br/>
+loader for any particular event.<br/>
 
 This standby loader can be invoked in the following ways.<br/>
 
