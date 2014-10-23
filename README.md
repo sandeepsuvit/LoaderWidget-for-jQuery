@@ -9,10 +9,10 @@ This widget is a customized Standby widget with a loader image. This also
 helps the user to display text content dynamically when they want to show the
 loader for any particular event.<br/><br/>
 
-This standby loader can be invoked in the following ways.<br/><br/>
+This standby loader can be invoked in the following ways.<br/>
 
 <b>Note:</b><br/> The loader has been default set to work on the "body" on the html
-pages.<br/><br/>
+pages.<br/>
 
 <b>How to use this widget:</b><br/>
 Include this js file and css file in your parent html<br/>

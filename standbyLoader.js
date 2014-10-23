@@ -34,7 +34,7 @@
 var hasOwnProperty = Object.prototype.hasOwnProperty;
 
 // Path for the image to show on the loader
-var standbyLoader_image_path = "../resources/images/ajaxLoader.gif";
+var standbyLoader_image_path = "ajaxLoader.gif";
 
 // Default text to show on the loader
 var standbyLoader_default_text = "Please wait...";
