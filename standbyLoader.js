@@ -8,12 +8,12 @@
  * Website 	- www.dotedlabs.com
  * 
  * This widget is a customized Standby widget with a loader image. This also
- * helps the user to display text content dynamically when they want to show the
- * loader for any particular event.
+ * helps the user to display text content dynamically when the user wants to 
+ * show the loader for any particular event.
  * 
  * This standby loader can be invoked in the following ways.
  * 
- * Note: The loader has been default set to work on the "body" on the html
+ * Note: The loader has been default set to work on the "body" of the html
  * pages.
  * 
  * ----------------------------------------------------------------------------
