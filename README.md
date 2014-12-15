@@ -4,6 +4,7 @@ LoaderWidget-for-jQuery
 Created by SANDEEP KANANGATT<br/>
 Email - sandeepsuvit@gmail.com<br/>
 Website - www.dotedlabs.com<br/>
+GitHub - https://github.com/sandeepsuvit/LoaderWidget-for-jQuery<br/>
 
 This widget is a customized Standby widget with a loader image. This also
 helps the user to display text content dynamically when they want to show the
