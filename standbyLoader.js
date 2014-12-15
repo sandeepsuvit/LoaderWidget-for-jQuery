@@ -6,6 +6,7 @@
  * Name 	- SANDEEP KANANGATT 
  * Email 	- sandeepsuvit@gmail.com 
  * Website 	- www.dotedlabs.com
+ * Github	- https://github.com/sandeepsuvit/LoaderWidget-for-jQuery
  * 
  * This widget is a customized Standby widget with a loader image. This also
  * helps the user to display text content dynamically when the user wants to 
