@@ -86,6 +86,9 @@ $(document).ready(
 						// Remove the overlay
 						this.hide();
 					}
+					
+					//Disable the scrollbars from the body tag
+					$('body').addClass("standbyLoader-hide-scrolls-from-body");
 
 					// Check if the text parameter is passed
 					if (param === undefined) {
@@ -127,6 +130,9 @@ $(document).ready(
 							$("#standbyLoader-overlay").remove();
 						});
 					}
+					
+					//Re-Enable the scrollbars from the body tag
+					$('body').removeClass("standbyLoader-hide-scrolls-from-body");
 				},
 
 				// Change the default message to custom message
